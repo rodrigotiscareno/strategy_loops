@@ -2,5 +2,5 @@
 
 The authors of this repository are: 
 
-Rodrigo Tiscareno
-Ryan Eggens 
+- Rodrigo Tiscareno
+- Ryan Eggens 
