@@ -2,5 +2,7 @@
 
 The authors of this repository are: 
 
-Rodrigo Tiscareno
-Riya Patel
+- Rodrigo Tiscareno
+- Ryan Eggens 
+- Riya Patel
+
