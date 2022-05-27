@@ -2,5 +2,6 @@
 
 The authors of this repository are: 
 
-Rodrigo Tiscareno
-Alicia Bremer
+- Rodrigo Tiscareno
+- Ryan Eggens 
+- Alicia Bremer
