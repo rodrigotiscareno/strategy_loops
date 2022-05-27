@@ -3,3 +3,4 @@
 The authors of this repository are: 
 
 Rodrigo Tiscareno
+Riya Patel
