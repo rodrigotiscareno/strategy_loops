@@ -6,3 +6,4 @@ The authors of this repository are:
 - Ryan Eggens 
 - Alicia Bremer
 - Riya Patel
+- Ryan Chan
